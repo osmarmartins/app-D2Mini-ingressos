@@ -15,10 +15,10 @@ Armazenamento interno (SQFlite)
 Controle de estado e rota com GetX
 
 # Telas
-![Home](https://raw.githubusercontent.com/osmarmartins/d2mini-ingressos/master/vista0.png)
+![Home](https://github.com/osmarmartins/app-D2Mini-ingressos/blob/main/vista0.png)
 
 
 # Imagens do D2Mini
-![D2Mini](https://raw.githubusercontent.com/osmarmartins/d2mini-ingressos/master/vista2.jpeg)
+![D2Mini](https://github.com/osmarmartins/app-D2Mini-ingressos/blob/main/vista1.png)
 
-![Vista por cima](https://raw.githubusercontent.com/osmarmartins/d2mini-ingressos/master/vista1.png)
+![Vista por cima](https://github.com/osmarmartins/app-D2Mini-ingressos/blob/main/vista2.jpeg)
